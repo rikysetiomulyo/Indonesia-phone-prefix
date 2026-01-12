@@ -1,0 +1,202 @@
+[
+  {
+    "prefix": "0811",
+    "operator": "Telkomsel",
+    "card": "Kartu Halo"
+  },
+  {
+    "prefix": "0812",
+    "operator": "Telkomsel",
+    "card": "Simpati / Halo"
+  },
+  {
+    "prefix": "0813",
+    "operator": "Telkomsel",
+    "card": "Simpati"
+  },
+  {
+    "prefix": "0814",
+    "operator": "Indosat Ooredoo",
+    "card": "Indosat M2 (IM2)"
+  },
+  {
+    "prefix": "0815",
+    "operator": "Indosat Ooredoo",
+    "card": "Matrix / Mentari"
+  },
+  {
+    "prefix": "0816",
+    "operator": "Indosat Ooredoo",
+    "card": "Matrix / Mentari"
+  },
+  {
+    "prefix": "0817",
+    "operator": "XL Axiata",
+    "card": "XL Prabayar / Prioritas"
+  },
+  {
+    "prefix": "0818",
+    "operator": "XL Axiata",
+    "card": "XL Prabayar / Prioritas"
+  },
+  {
+    "prefix": "0819",
+    "operator": "XL Axiata",
+    "card": "XL Prabayar / Prioritas"
+  },
+  {
+    "prefix": "0821",
+    "operator": "Telkomsel",
+    "card": "Simpati"
+  },
+  {
+    "prefix": "0822",
+    "operator": "Telkomsel",
+    "card": "Loop / Facebook"
+  },
+  {
+    "prefix": "0823",
+    "operator": "Telkomsel",
+    "card": "Kartu AS"
+  },
+  {
+    "prefix": "0831",
+    "operator": "XL Axiata",
+    "card": "AXIS"
+  },
+  {
+    "prefix": "0832",
+    "operator": "XL Axiata",
+    "card": "AXIS"
+  },
+  {
+    "prefix": "0833",
+    "operator": "XL Axiata",
+    "card": "AXIS"
+  },
+  {
+    "prefix": "0838",
+    "operator": "XL Axiata",
+    "card": "AXIS"
+  },
+  {
+    "prefix": "0851",
+    "operator": "Telkomsel",
+    "card": "By.U / Kartu AS"
+  },
+  {
+    "prefix": "0852",
+    "operator": "Telkomsel",
+    "card": "Kartu AS"
+  },
+  {
+    "prefix": "0853",
+    "operator": "Telkomsel",
+    "card": "Kartu AS"
+  },
+  {
+    "prefix": "0855",
+    "operator": "Indosat Ooredoo",
+    "card": "Matrix"
+  },
+  {
+    "prefix": "0856",
+    "operator": "Indosat Ooredoo",
+    "card": "IM3"
+  },
+  {
+    "prefix": "0857",
+    "operator": "Indosat Ooredoo",
+    "card": "IM3"
+  },
+  {
+    "prefix": "0858",
+    "operator": "Indosat Ooredoo",
+    "card": "Mentari"
+  },
+  {
+    "prefix": "0859",
+    "operator": "XL Axiata",
+    "card": "XL"
+  },
+  {
+    "prefix": "0877",
+    "operator": "XL Axiata",
+    "card": "XL"
+  },
+  {
+    "prefix": "0878",
+    "operator": "XL Axiata",
+    "card": "XL"
+  },
+  {
+    "prefix": "0881",
+    "operator": "Smartfren",
+    "card": "Smartfren"
+  },
+  {
+    "prefix": "0882",
+    "operator": "Smartfren",
+    "card": "Smartfren"
+  },
+  {
+    "prefix": "0883",
+    "operator": "Smartfren",
+    "card": "Smartfren"
+  },
+  {
+    "prefix": "0884",
+    "operator": "Smartfren",
+    "card": "Smartfren"
+  },
+  {
+    "prefix": "0885",
+    "operator": "Smartfren",
+    "card": "Smartfren"
+  },
+  {
+    "prefix": "0886",
+    "operator": "Smartfren",
+    "card": "Smartfren"
+  },
+  {
+    "prefix": "0887",
+    "operator": "Smartfren",
+    "card": "Smartfren"
+  },
+  {
+    "prefix": "0888",
+    "operator": "Smartfren",
+    "card": "Smartfren"
+  },
+  {
+    "prefix": "0889",
+    "operator": "Smartfren",
+    "card": "Smartfren"
+  },
+  {
+    "prefix": "0895",
+    "operator": "Indosat Ooredoo (Tri)",
+    "card": "Tri (3)"
+  },
+  {
+    "prefix": "0896",
+    "operator": "Indosat Ooredoo (Tri)",
+    "card": "Tri (3)"
+  },
+  {
+    "prefix": "0897",
+    "operator": "Indosat Ooredoo (Tri)",
+    "card": "Tri (3)"
+  },
+  {
+    "prefix": "0898",
+    "operator": "Indosat Ooredoo (Tri)",
+    "card": "Tri (3)"
+  },
+  {
+    "prefix": "0899",
+    "operator": "Indosat Ooredoo (Tri)",
+    "card": "Tri (3)"
+  }
+]
